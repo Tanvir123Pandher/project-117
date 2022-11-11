@@ -1,0 +1,18 @@
+body{
+    background-color: cyan;
+}
+#span_score{
+font-size: 25px;
+margin-left: 9px;
+float: left;
+}
+
+#span_timer{
+    font-size: 25px;
+    float: right;
+    margin-right: 9px;
+}
+
+#p_to_be_drawn{
+    color:black;
+}
